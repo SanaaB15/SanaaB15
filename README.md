@@ -24,25 +24,6 @@ Je suis actuellement en formation informatique, avec un objectif clair : devenir
 
 > Oui, même COBOL ! #vintageVibes 💾
 
----
-
-### 🐱 Quelques vibes visuelles qui me ressemblent :
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="Chat codeur" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjYxYjA5NGFlOWJhYmFkY2IzNDgxNDY0Nzc2ZjZlNzA3YzRjYmFlNCZjdD1n/26BRzozg4TCBXv6QU/giphy.gif" width="200" alt="Hijabi girl with coffee" />
-</p>
-
----
-
-### 📊 Mes stats GitHub (le glow-up technique) :
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satato&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satato&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### ☕ Merci d’être passé·e par ici, et n’oublie pas…
 
