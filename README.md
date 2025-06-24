@@ -4,7 +4,7 @@
 <h3 align="center">💻 Étudiante en informatique & future développeuse d'applications 💖</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="250" alt="Hijabi coding in pyjama" />
+  <img src="file:///C:/Users/Sanaa/Downloads/t%C3%A9l%C3%A9chargement.gif" width="250" alt="" />
 </p>
 
 ---
