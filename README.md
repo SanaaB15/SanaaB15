@@ -19,7 +19,7 @@ Je suis actuellement en formation informatique, avec un objectif clair : devenir
 ### 💻 Mes skills :
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,c,react,nodejs,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,sql" />
 </p>
 
 > Oui, même COBOL ! #vintageVibes 💾
