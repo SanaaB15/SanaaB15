@@ -4,7 +4,7 @@
 <h3 align="center">💻 Étudiante en informatique & future développeuse d'applications 💖</h3>
 
 <p align="center">
-  <img src="téléchargement.gif
+  <img src="téléchargement.gif"
 
 ---
 
