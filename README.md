@@ -5,7 +5,7 @@
 <h3 align="center">💻 Computer Science Student & Future App Developer 💖</h3>
 
 <p align="center">
-  <img src="clavier.gif" alt="Wind Chime" width="300px" />
+  <img src="clavier.gif" alt="Keyboard" width="350px" />
 </p>
 
 ---
