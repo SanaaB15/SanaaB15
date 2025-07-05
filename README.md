@@ -1,31 +1,48 @@
 <!-- README.md for Sanaa -->
 
-<h1 align="center">Salut, moi c’est <span style="color:pink;">Sanaa</span></h1>
-<h3 align="center">💻 Étudiante en informatique & future développeuse d'applications 💖</h3>
+<h1 align="center" style="color:pink;">🌸 Hi, I'm <span style="color:deeppink;">Sanaa</span> 🌸</h1>
+
+<h3 align="center">💻 Computer Science Student & Future App Developer 💖</h3>
 
 <p align="center">
-  <img src="téléchargement.gif"
-
----
-
-
-### 🌟 On a rien sans rien !
-
-Je m’appelle **Sanaa**,  
-Je suis actuellement en formation informatique, avec un objectif clair : devenir une développeuse full stack.
-
----
-
-### 💻 Mes skills :
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,sql" />
+  <img src="clavier.gif" alt="Wind Chime" width="300px" />
 </p>
 
+---
 
-### ☕ Merci d’être passé·e par ici, et n’oublie pas…
+### 🌸 Trust The Process
 
-> *Code like a queen, debug like a warrior 💪👑*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78CBC&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+code+with+passion+and+determination" />
+</p>
+
+My name is **Sanaa**,  
+I’m currently studying **computer science**, with a clear goal:  
+🎯 *to become a creative, skilled, and inspiring full stack developer!*
+
+---
+
+### My Favorite Technologies:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,sql&theme=light" />
+</p>
+
+---
+
+### 🧠 What I'm Learning:
+
+- 🔧 Web Development (front + back)
+- 🧩 Algorithms & Data Structures
+- 🗄️ Databases (SQL)
+- 🛠️ Tools: Git, GitHub, VS Code, IntelliJ...
+
+---
 
 
 
+### ☕ Thanks for stopping by 💕
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f78cbc&height=150&section=footer&text=Thanks+for+visiting+💖&fontColor=fff&fontSize=20" />
+</p>
